@@ -34,13 +34,17 @@ E. Grafique los resultados del inicio (d) con el eje del tiempo con escalas de s
 
 25. Un condensador de 4.7 uF se carga a 43 V. Si un resistor de 39 Kohm se conecta al capacitor, ¿Cúal es el voltaje,  200ms  despúes de que se conecta  el resistor?
 
+
 27.  Para la figura 11-54, sea E= 200 V , R2= 1Kohm y C= 0.5 uF. Despúes de que el capacitor esta totalmente cargado en la posición 1, el interruptor es  movido a la posición 2.
+
 
 11-5 Circuitos más complejos
 29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t=0  Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
 
 
+
 31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
 
 33.   Para el circuito de la figura 11-54, el capacitor está inicialmente descargado. El interruptor es movido primero a la posición de carga y luego a la de  descarga,  proporcionando la corriente que se muestra en la figura 11-58. El capacitor r se carga totalmente en 12.5 s. Determine E, R2 y C.
 
@@ -51,6 +55,7 @@ E. Grafique los resultados del inicio (d) con el eje del tiempo con escalas de s
 11-6 Aplicación de temporización RC
 
 37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es 5 V,R= 750 Kohm y la alarma es actuvada en 15 s  cuando vC=3.8V, ¿ que valor tiene C?
+
 
 
 11-7 Respuesta al pulso de circuitos RC
