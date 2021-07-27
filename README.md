@@ -35,10 +35,12 @@ E. Grafique los resultados del inicio (d) con el eje del tiempo con escalas de s
 25. Un condensador de 4.7 uF se carga a 43 V. Si un resistor de 39 Kohm se conecta al capacitor, ¿Cúal es el voltaje,  200ms  despúes de que se conecta  el resistor?
 
 
+
 27.  Para la figura 11-54, sea E= 200 V , R2= 1Kohm y C= 0.5 uF. Despúes de que el capacitor esta totalmente cargado en la posición 1, el interruptor es  movido a la posición 2.
 
 
 11-5 Circuitos más complejos
+
 29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t=0  Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
 
 
