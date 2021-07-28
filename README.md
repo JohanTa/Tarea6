@@ -278,6 +278,10 @@ teslas?
 
 ![image](https://user-images.githubusercontent.com/85320165/127251914-cf9907bd-fa84-463c-bf56-0995a3e94292.png)
 
+19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm = 1.5 cm, a 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![19](https://user-images.githubusercontent.com/81887698/127265879-25ed5044-c60a-44f2-84e0-c20c6738aacf.PNG)
+
 21. Para el circuito de la figura 12-51, 	 Φ= 30 x uWb y N =2000 vueltas. No
 tome en cuenta el desbordamiento y encuentre la corriente I
 
