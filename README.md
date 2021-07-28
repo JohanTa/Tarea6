@@ -67,7 +67,7 @@ E. Grafique los resultados del inicio (d) con el eje del tiempo con escalas de s
 
 37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es 5 V,R= 750 Kohm y la alarma es actuvada en 15 s  cuando vC=3.8V, ¿ que valor tiene C?
 
-# CÁPITULO 12
+
 
 
 
@@ -85,4 +85,15 @@ c. ¿Cuál es el VRP?
 43. Se aplica un escalón al circuito de la figura 11-66. Si  R= 150 ohm y C= 20pF estime el tiempo  que tarda en subir  el voltaje de salida.
 
 
+# CÁPITULO 12
+
+1. Vea la figura 12-41: 
+
+a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad
+de flujo? 
+
+b. Si Φ 28 mWb, ¿cuál es la densidad de flujo en
+teslas?
+
+![image](https://user-images.githubusercontent.com/85320165/127248320-55dc8919-0ade-484d-84a0-47009b41e107.png)
 
