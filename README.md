@@ -1,5 +1,7 @@
 # Tarea6
-Universidad de las Fuerzas Armadas "ESPE"
+
+# Universidad de las Fuerzas Armadas ESPE
+
 Fundamentos de Circuitos Electricos
 Informe Tarea Nº6
 
