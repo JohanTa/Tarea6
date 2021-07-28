@@ -26,6 +26,11 @@ Analizar y comprender el capitulo 11-12 del libro de "Analisis de circuitos elec
 
 2.MARCO TEÓRICO (RESUMEN)
 
+Capitúlo 11
+
+![JOSUE 7 (1)](https://user-images.githubusercontent.com/84783236/127320588-30428f37-19e8-4786-aaf9-3c6030a621b6.png)
+
+
 Marco teorico Cap 12:
 
 ![image](https://user-images.githubusercontent.com/85320165/127247087-a9a85db2-e058-4565-9fe1-f42fbde6d419.png)
