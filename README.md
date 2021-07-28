@@ -1,9 +1,33 @@
 # Tarea6
 
+integrantes:
 
+-Josue Pillajo
 
-Marco teorico:
-Cap 12.
+-Bryan Simbaña
+
+-Johan Taipicaña
+
+-Nayeli Tisalema
+
+1.OBJETIVOS
+
+1.1.Objetivo general.
+
+Analizar y comprender el capitulo 11-12 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
+
+1.2. Objeticos específicos.
+
+-Aplicar los aprendizajes resividos del docenten en ejercicios del capitulo 11-12
+
+-Entender como funciona los diferentes tipos de analisis de circuitos y asi poderlos usar de manera mas facil.
+
+-Revisar el funcionamiento de los capacitadores y los materiales magneticos para poder facilitar el analisis de un problema.
+
+2.MARCO TEÓRICO (RESUMEN)
+
+Marco teorico Cap 12:
+
 ![image](https://user-images.githubusercontent.com/85320165/127247087-a9a85db2-e058-4565-9fe1-f42fbde6d419.png)
 
 ![image](https://user-images.githubusercontent.com/85320165/127247288-6d722dc0-c8e4-4603-816e-5a1599cb76e9.png)
@@ -16,15 +40,7 @@ Cap 12.
 
 ![image](https://user-images.githubusercontent.com/85320165/127247778-98dbf852-bcc2-4c3d-bedd-589c3ebcb52e.png)
 
-
-
-
-
-
-
-
-
-
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
 # CÁPITULO 11
 
@@ -96,6 +112,24 @@ b. Si Φ 28 mWb, ¿cuál es la densidad de flujo en
 teslas?
 
 ![image](https://user-images.githubusercontent.com/85320165/127248320-55dc8919-0ade-484d-84a0-47009b41e107.png)
+
+
+
+4.VIDEO
+
+
+
+5.CONCLUSIONES 
+
+-El analisis los circuitos mediante los métodos estudiados facilitó la solución de los mismos. 
+
+-Supimos como funciona un capacitador un componentes que se encuentran en cualquier circuito. 
+
+-Reconoer como funcion el magnetismo en un circuito y como podemos ver como funciona, y tener una mejor mas comodidad a la hora de usar estos materiales.
+
+6.BIBLIOGRAFÍA
+
+Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
 
 
 
