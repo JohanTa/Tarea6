@@ -1,5 +1,17 @@
 # Tarea6
+Universidad de las Fuerzas Armadas "ESPE"
+Fundamentos de Circuitos Electricos
+Informe Tarea Nº6
 
+Integrantes: Josue Pillajo, Bryan Simbaña, Johan Taipicaña, Nayeli Tisalema
+
+Carrera: Ing. en Electrónica y Automatización
+
+NRC: 5406
+
+Docente: Ing. Darwin Alulema
+
+Tema: Cap 11 y 12 del libro Análisis de Circuitos Electricos 4ta Edición de Allan H. Robbins y Wilmer C. Miller.
 
 
 
